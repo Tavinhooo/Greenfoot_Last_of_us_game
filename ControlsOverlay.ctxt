@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ControlsOverlay
+comment0.text=\r\n\ ControlsOverlay\ displays\ the\ controls\ image\ on\ top\ of\ other\ objects,\ scaled\ to\ 700\ pixels\ in\ height.\r\n
+comment1.params=
+comment1.target=ControlsOverlay()
+numComments=2

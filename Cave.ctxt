@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cave
+comment1.params=
+comment1.target=Cave()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ gerarZumbi()
+comment4.params=
+comment4.target=void\ is_coliding()
+comment5.params=
+comment5.target=boolean\ check_if_it_died()
+numComments=6
