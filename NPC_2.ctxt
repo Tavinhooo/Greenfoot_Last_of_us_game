@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=NPC_2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NPC_2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NPC_2()
+comment10.params=
+comment10.target=void\ is_coliding()
+comment11.params=
+comment11.target=void\ check_if_it_died()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ attack()
+comment5.params=
+comment5.target=boolean\ detectEnemy()
+comment5.text=\r\n\ \ \ \ private\ void\ executeAttack()\ {\r\n\ \ \ \ \ \ \ \ //\ Verifica\ se\ h\u00E1\ um\ inimigo\ na\ frente\ para\ atacar\r\n\ \ \ \ \ \ \ \ Actor\ target\ \=\ getOneObjectAtOffset(moveDirection\ *\ 50,\ 0,\ Jogadores.class);\ //\ Ajuste\ o\ valor\ 50\ para\ o\ alcance\ do\ ataque\r\n\ \ \ \ \ \ \ \ if\ (target\ \!\=\ null)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ //\ Adicione\ a\ l\u00F3gica\ de\ dano\ ao\ alvo\r\n\ \ \ \ \ \ \ \ \ \ \ \ if\ (currentFrame\ \=\=\ animacao_de_ataque.length\ -\ 1)\ {\ //\ Aplica\ o\ dano\ no\ \u00FAltimo\ frame\ do\ ataque\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ((Jogadores)target).takeDamage(1);\ //\ Causa\ 10\ de\ dano\ ao\ jogador\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+comment6.params=
+comment6.target=void\ animateWalk()
+comment7.params=
+comment7.target=void\ executeAttack()
+comment8.params=
+comment8.target=void\ animateAttack()
+comment9.params=
+comment9.target=void\ checkEdge()
+numComments=12

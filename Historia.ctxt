@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Historia
+comment0.text=\ \r\n\r\n\ Classe\ Historia\ para\ a\ transi\u00E7\u00E3o\ de\ fundos\ de\ hist\u00F3ria.\ \r\n\r\n
+comment1.params=
+comment1.target=Historia()
+comment1.text=\ \r\n\r\n\ Construtor\ para\ objetos\ da\ classe\ Historia.\ \r\n\r\n\ Define\ o\ fundo\ inicial\ e\ inicializa\ vari\u00E1veis\ de\ controle.\ \r\n\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\ \r\n\r\n\ M\u00E9todo\ principal\ da\ classe\ Historia.\ \r\n\r\n\ Executa\ as\ verifica\u00E7\u00F5es\ de\ tecla\ e\ realiza\ as\ trocas\ de\ fundo\ \r\n\r\n\ conforme\ a\ contagem\ de\ press\u00F5es.\ \r\n\r\n
+comment3.params=
+comment3.target=void\ TrocaHistoria()
+comment3.text=\ \r\n\r\n\ Troca\ a\ imagem\ de\ fundo\ para\ a\ pr\u00F3xima\ imagem\ de\ hist\u00F3ria.\ \r\n\r\n\ Alterna\ entre\ 'historia1'\ e\ 'historia2'\ para\ controlar\ o\ estado.\ \r\n\r\n
+numComments=4

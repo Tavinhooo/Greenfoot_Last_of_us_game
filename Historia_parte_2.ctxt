@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Historia_parte_2
+comment0.text=\ \r\n\r\n\ Classe\ Historia_parte_2\ gere\ a\ transi\u00E7\u00E3o\ para\ o\ segundo\ n\u00EDvel\ com\ fundo\ de\ hist\u00F3ria.\ \r\n\r\n
+comment1.params=scoreValue\ tem_Arma
+comment1.target=Historia_parte_2(int,\ boolean)
+comment1.text=\ \r\n\r\n\ Construtor\ que\ inicializa\ o\ scoreCounter\ e\ exibe\ a\ pontua\u00E7\u00E3o.\ \r\n\r\n\ \r\n\r\n\ @param\ scoreValue\ Valor\ da\ pontua\u00E7\u00E3o\ a\ ser\ exibida.\ \r\n\r\n\ @param\ tem_Arma\ Define\ se\ o\ jogador\ possui\ arma.\ \r\n\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\ \r\n\r\n\ M\u00E9todo\ act\ gerencia\ a\ l\u00F3gica\ de\ transi\u00E7\u00E3o\ para\ o\ pr\u00F3ximo\ n\u00EDvel.\ \r\n\r\n\ Ao\ pressionar\ ESPA\u00C7O\ ou\ ENTER,\ passa\ para\ o\ segundo\ n\u00EDvel.\ \r\n\r\n
+numComments=3

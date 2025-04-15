@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=NPC
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ npc\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=NPC()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ animateWalk()
+comment5.params=
+comment5.target=void\ checkEdge()
+comment6.params=
+comment6.target=void\ atira()
+comment7.params=
+comment7.target=void\ is_coliding()
+comment8.params=
+comment8.target=void\ check_if_it_died()
+numComments=9

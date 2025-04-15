@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Segundo_nivel
+comment1.params=contador\ temArma
+comment1.target=Segundo_nivel(int,\ boolean)
+comment2.params=
+comment2.target=Score\ getCounter()
+comment3.params=
+comment3.target=void\ fim()
+comment4.params=width\ height\ x\ y
+comment4.target=void\ addPlataforma_com_mel(int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=void\ colocaObjetos()
+numComments=6

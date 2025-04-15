@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\ \r\n\r\n\ Classe\ Menu\ define\ o\ ecr\u00E3\ do\ menu\ principal\ do\ jogo.\ \r\n\r\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\ \r\n\r\n\ Construtor\ para\ objetos\ da\ classe\ Menu.\ \r\n\r\n\ Define\ o\ fundo\ inicial\ e\ prepara\ os\ elementos\ do\ menu.\ \r\n\r\n
+comment2.params=
+comment2.target=void\ prepararMundo()
+comment2.text=\ \r\n\r\n\ M\u00E9todo\ para\ adicionar\ itens\ do\ menu\ e\ o\ cursor.\ \r\n\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\ \r\n\r\n\ M\u00E9todo\ act\ gerencia\ a\ navega\u00E7\u00E3o\ e\ a\ sele\u00E7\u00E3o\ no\ menu.\ \r\n\r\n\ Permite\ mover\ o\ cursor\ com\ as\ teclas\ para\ cima\ e\ para\ baixo,\ \r\n\r\n\ e\ selecionar\ uma\ op\u00E7\u00E3o\ com\ ESPA\u00C7O\ ou\ ENTER.\ \r\n\r\n
+comment4.params=
+comment4.target=void\ showControlsOverlay()
+comment4.text=\ \r\n\r\n\ Exibe\ a\ sobreposi\u00E7\u00E3o\ dos\ controles.\ \r\n\r\n
+comment5.params=
+comment5.target=void\ hideControlsOverlay()
+comment5.text=\ \r\n\r\n\ Oculta\ a\ sobreposi\u00E7\u00E3o\ dos\ controles\ e\ retorna\ ao\ menu.\ \r\n\r\n
+numComments=6

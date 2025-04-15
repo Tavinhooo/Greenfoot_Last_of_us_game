@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Winnie
+comment1.params=vidaWinnie
+comment1.target=Winnie(Vida_Winnie)
+comment10.params=
+comment10.target=void\ loseLife()
+comment11.params=
+comment11.target=void\ gameOver()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ pegarChave()
+comment4.params=
+comment4.target=void\ pegarPoteDeMel()
+comment5.params=
+comment5.target=void\ move()
+comment6.params=
+comment6.target=void\ mirrorImages()
+comment7.params=animacao
+comment7.target=void\ animarMove(greenfoot.GreenfootImage[])
+comment8.params=
+comment8.target=void\ atira()
+comment9.params=
+comment9.target=void\ checkCollisions()
+numComments=12

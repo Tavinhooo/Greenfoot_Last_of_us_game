@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Primeiro_nivel
+comment1.params=
+comment1.target=Primeiro_nivel()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=width\ height\ x\ y
+comment3.target=void\ addPlatform(int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=Score\ getCounter()
+comment5.params=
+comment5.target=void\ verificaPortal()
+comment6.params=
+comment6.target=void\ colocaObjetos()
+comment7.params=
+comment7.target=void\ verificaNPCs()
+comment8.params=
+comment8.target=void\ troca_nivel()
+numComments=9

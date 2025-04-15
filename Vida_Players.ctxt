@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vida_Players
+comment1.params=
+comment1.target=Vida_Players()
+comment2.params=
+comment2.target=void\ updateLifeDisplay()
+comment3.params=
+comment3.target=void\ loseLife()
+comment4.params=
+comment4.target=int\ getLives()
+comment5.params=
+comment5.target=void\ setHeartImage()
+numComments=6
